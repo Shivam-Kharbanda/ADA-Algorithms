@@ -19,7 +19,7 @@ pair<int, int> findMaxMin(int arr[], int s, int e) {
 }
 
 int main() {
-    int arr[] = {12, 7, 19, 5, 18, 3, 8, 11, 22, 10};
+    int arr[] = {12, 7, 19, 5, 39, 2, 8, 11, 22, 10};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     pair<int, int> result = findMaxMin(arr, 0, n - 1);
