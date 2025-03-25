@@ -16,7 +16,7 @@ bool binarySearch(int arr[], int key, int s, int e) {
 }
 
 int main() {
-    int arr[] = {2, 3, 4, 10, 40};
+    int arr[] = {2, 8, 90, 10, 40};
     int n = sizeof(arr) / sizeof(arr[0]);
     int key;
 
