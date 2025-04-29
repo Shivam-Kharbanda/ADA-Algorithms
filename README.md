@@ -92,6 +92,9 @@ Selection Sort repeatedly selects the smallest (or largest) element from the uns
 - Minimizes swaps compared to Bubble Sort.
 - **Time Complexity:** O(n²) for all cases since it scans the array in every pass, even when already sorted.
 
+  ![image](https://github.com/user-attachments/assets/00a4aec2-b854-4a8d-b96e-646de2bb2db2)
+
+
 ## Strassen’s Matrix Multiplication
 Strassen’s algorithm reduces the number of multiplications from 8 to 7 when multiplying two matrices.
 
