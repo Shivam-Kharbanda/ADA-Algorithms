@@ -25,6 +25,9 @@ Bubble Sort is a simple sorting algorithm that repeatedly steps through the list
   - Best Case: **O(n)** (when already sorted)
   - Average Case: **O(n²)**
   - Worst Case: **O(n²)** (when sorted in reverse order)
+ 
+    ![image](https://github.com/user-attachments/assets/8825cbb1-231a-4cd8-a370-25e758ae0ce0)
+
 
 ## Dijkstra’s Algorithm
 A greedy algorithm used to find the shortest path from a single source vertex to all other vertices in a weighted graph (with non-negative weights).
@@ -85,6 +88,9 @@ Quick Sort is a divide-and-conquer algorithm that selects a pivot element, parti
   - Best Case: **O(n log n)**
   - Average Case: **O(n log n)**
   - Worst Case: **O(n²)** (if poorly chosen pivot)
+ 
+    ![image](https://github.com/user-attachments/assets/0030fa0e-6bc6-42b7-98c5-f784f70f3535)
+
 
 ## Selection Sort
 Selection Sort repeatedly selects the smallest (or largest) element from the unsorted portion of the list and swaps it with the first element of the unsorted section.
@@ -92,7 +98,7 @@ Selection Sort repeatedly selects the smallest (or largest) element from the uns
 - Minimizes swaps compared to Bubble Sort.
 - **Time Complexity:** O(n²) for all cases since it scans the array in every pass, even when already sorted.
 
-  ![image](https://github.com/user-attachments/assets/00a4aec2-b854-4a8d-b96e-646de2bb2db2)
+![image](https://github.com/user-attachments/assets/14e6ebfb-c68f-4e27-a43c-79a7576a39f3)
 
 
 ## Strassen’s Matrix Multiplication
